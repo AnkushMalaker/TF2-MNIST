@@ -4,4 +4,7 @@ You can open it directly on Colab by entering [this link](https://github.com/Ank
 
 Check out the docs and walkthroughs for more!  
 
+Please note: This is a very inefficient way of batching. Kindly use
+tf.data api for best results. 
+
 [Reference](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/guide/keras/train_and_evaluate.ipynb "Tensorflow 'train and evaluate' guide")
